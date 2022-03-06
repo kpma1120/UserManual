@@ -72,7 +72,7 @@ There are 5 buttons provided on this page:
 
 <img src="./images/Settings.png" alt="Settings" width="300"/>
 
-You can modify the weights allocated to the 5 job attributes below for calculating the job score in terms of a weighted average value. The job score will be used on the `Compare Job Offers` page for ranking. By default, all the weights will be initially set to 1 when the app is first started. Please note only non-negative integers are allowed for the weights.
+You can modify the weights allocated to the 5 job attributes below for calculating the job score in terms of a weighted average value. The job score will be used on the `COMPARE JOB OFFERS` page for ranking. By default, all the weights will be initially set to 1 when the app is first started. Please note only non-negative integers are allowed for the weights.
 
 * Annual Salary
 * Annual Bonus
@@ -117,6 +117,6 @@ After you have selected two jobs and click `COMPARE`, you will be directed to th
 There are 2 buttons provided on this page:
 
 1. `MAIN MENU`: Go back to the main menu.
-2. `RETURN TO JOB COMPARE`: Go back to the previous page of `Compare Job Offers`, where you can re-select two new jobs to trigger another comparison.
+2. `RETURN TO JOB COMPARE`: Go back to the previous page of `COMPARE JOB OFFERS`, where you can re-select two new jobs to trigger another comparison.
 
  
