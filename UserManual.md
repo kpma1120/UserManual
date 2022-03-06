@@ -3,14 +3,14 @@
 - [Introduction](#introduction)
 - [Main Menu](#main-menu)
 - [Enter/Edit Current Job Details](#enteredit-current-job-details)
-- [Enter/Update/Compare Job Offers](#enterupdatecompare-job-offers)
+- [Enter/Edit Job Offers](#enteredit-job-offers)
 - [Adjust Comparison Settings](#adjust-comparison-settings)
 - [Compare Job Offers](#compare-job-offers)
 
 
 ## Introduction
 
-This Job Comparison App enables you to make comparisons between your current job and new job offers, based on your preference weightings that can be customized on the comparison settings page.
+This Job Comparison App enables you to make comparisons between your current job and new job offers, based on your customized preference weightings of the job attributes for job scoring and ranking.
 
 
 ## Main Menu
@@ -20,7 +20,7 @@ This Job Comparison App enables you to make comparisons between your current job
 When the Job Comparison App is started, the main menu will be shown, there are 4 buttons provided:
 
 1. `ENTER/EDIT CURRENT JOB DETAILS` -- You can enter and save details of your current job. Or if you saved your current job details before, the saved data will be shown, then you can edit and save the changes you have just made.
-2. `ENTER/UPDATE/COMPARE JOB OFFERS` - You can enter and save details of your new job offers. Or if you saved any job offers before, you can search the saved job offer so that the saved data will be shown, then you can edit and update your job offer. Besides, if you saved your current job details before, then you can also make comparison between your current job and your new job offer.
+2. `ENTER/EDIT JOB OFFERS` - You can enter and save details of your new job offers. Or if you saved any job offers before, you can search the saved job offer so that the saved data will be shown, then you can edit and update your job offer. Besides, if you saved your current job details before, then you can also make comparison between your current job and your new job offer.
 3. `ADJUST COMPARISON SETTINGS` - You can edit the weightings assigned to five job attributes which contribute to the calculation of the job score in terms of a weighted average.
 4. `COMPARE JOB OFFERS` - You will be presented a ranked list of jobs, including your current job and all job offers, in the decending order of the job scores. Then you can select two jobs so that their data will be placed side-by-side for your comparison.
 
@@ -51,7 +51,7 @@ There are 3 buttons provided on this page:
 3. `MAIN MENU`: Go back to the main menu.
 
 
-## Enter/Update/Compare Job Offers
+## Enter/Edit Job Offers
 
 <img src="./images/JobOffer.png" alt="Job Offer" width="300"/>
 
