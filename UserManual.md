@@ -2,8 +2,8 @@
 
 - [Introduction](#introduction)
 - [Main Menu](#main-menu)
-- [Enter/Edit Current Job Details](#enter-edit-current-job-details)
-- [Enter/Update/Compare Job Offers](#enter-update-compare-job-offers)
+- [Enter/Edit Current Job Details](#enteredit-current-job-details)
+- [Enter/Update/Compare Job Offers](#enterupdatecompare-job-offers)
 - [Adjust Comparison Settings](#adjust-comparison-settings)
 - [Compare Job Offers](#compare-job-offers)
 
