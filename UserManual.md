@@ -1,20 +1,20 @@
 # User Manual of Job Comparison App
 
-- [Introduction](#overview)
-- [Homepage](#homepage)
-- [Enter/Edit Current Job Details](#current-job)
-- [Enter/Update/Compare Job Offers](#job-offers)
-- [Adjust Comparison Settings](#settings)
-- [Compare Job Offers](#compare-jobs)
+- [Introduction](#introduction)
+- [Main Menu](#main-menu)
+- [Enter/Edit Current Job Details](#enter/edit-current-job-details)
+- [Enter/Update/Compare Job Offers](#enter/update/compare-job-offers)
+- [Adjust Comparison Settings](#adjust-comparison-settings)
+- [Compare Job Offers](#compare-job-offers)
 
 
 ## Introduction
 
 This Job Comparison App enables you to make comparisons between your current job and new job offers, based on your preference weightings that can be customized in the comparison settings page.
 
-## Homepage
+## Main Menu
 
-<img src="./images/Homepage.png" alt="Homepage" width="300"/>
+<img src="./images/MainMenu.png" alt="Main Menu" width="300"/>
 
 When you first launch the application, you'll have four options:
 
