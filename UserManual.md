@@ -55,7 +55,7 @@ There are 3 buttons provided on this page:
 
 <img src="./images/JobOffer.png" alt="Job Offer" width="300"/>
 
-You can enter/edit your new job offers details, which have the same attributes as the current job. After you have entered Title and Company, the app will first search for any job offers saved before, if there is a match, then the data of that job offer will be shown for you to make changes and update. If there is no match otherwise, then you have created a new job offer, so that you can enter the new data and save.
+You can enter/edit your new job offers details, which have the same attributes as the current job. After you have entered Title and Company, the app will first search for any job offers saved before, if there is a match, then the data of that job offer will be shown for you to make changes and update. Or else there is no match, then you have created a new job offer, so that you can enter the new data and save.
 
 There are 5 buttons provided on this page:
 
